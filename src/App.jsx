@@ -37,7 +37,7 @@ function App() {
         className="input"
         type="text"
         onChange={inputHandler}
-        placeholder="type a request to generate"
+        placeholder="type something"
       />
       <button onClick={generateImg}>GENERATE</button>
 
